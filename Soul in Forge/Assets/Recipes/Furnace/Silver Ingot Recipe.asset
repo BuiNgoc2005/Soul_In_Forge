@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685a2ca26bea2144b8b13c0878e7b56d, type: 3}
+  m_Name: Silver Ingot Recipe
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  inputs:
+  - {fileID: 11400000, guid: 2148503d9f0c7064c8caa40c3a06297a, type: 2}
+  - {fileID: 11400000, guid: efebd9f184348624cbc57ec9219422c0, type: 2}
+  output: {fileID: 11400000, guid: 7907986bda76ddd4dae29714fc99ceb5, type: 2}
+  outputQuantity: 1

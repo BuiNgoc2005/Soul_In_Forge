@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 1ccf3ad62bc743743939652d9d8ae147
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1559642529163671795
+    second: UI_crafting_table_0
+  - first:
+      213: -6501387834511955216
+    second: UI_crafting_table_1
+  - first:
+      213: -7593173524583264303
+    second: UI_crafting_table_2
+  - first:
+      213: -2491806668785110368
+    second: UI_crafting_table_3
+  - first:
+      213: -5022467551335663073
+    second: UI_crafting_table_4
+  - first:
+      213: -1086047311712395823
+    second: UI_crafting_table_5
+  - first:
+      213: -1118230075544524335
+    second: UI_crafting_table_6
+  - first:
+      213: 378482057160494137
+    second: UI_crafting_table_7
+  - first:
+      213: -3711513638021043173
+    second: UI_crafting_table_8
+  - first:
+      213: -5375909303995718697
+    second: UI_crafting_table_9
+  - first:
+      213: 1922108686781823156
+    second: UI_crafting_table_10
+  - first:
+      213: -2755237082850759749
+    second: UI_crafting_table_11
+  - first:
+      213: -7223333402594266120
+    second: UI_crafting_table_12
+  - first:
+      213: 8336433613907820319
+    second: UI_crafting_table_13
+  - first:
+      213: -4700786815181457870
+    second: UI_crafting_table_14
+  - first:
+      213: -3878071660426132656
+    second: UI_crafting_table_15
+  - first:
+      213: 2336663725897391474
+    second: UI_crafting_table_16
+  - first:
+      213: -1381295218386635958
+    second: UI_crafting_table_17
+  - first:
+      213: 8796162175352511471
+    second: UI_crafting_table_18
+  - first:
+      213: 3948230180505540342
+    second: UI_crafting_table_19
+  - first:
+      213: 4907305417576032488
+    second: UI_crafting_table_20
+  - first:
+      213: 4408174658163201874
+    second: UI_crafting_table_21
+  - first:
+      213: 5406961382880838291
+    second: UI_crafting_table_22
+  - first:
+      213: 494855647361768420
+    second: UI_crafting_table_23
+  - first:
+      213: 3630722127955839755
+    second: UI_crafting_table_24
+  - first:
+      213: 2927132797842888297
+    second: UI_crafting_table_25
+  - first:
+      213: -9219191390972654232
+    second: UI_crafting_table_26
+  - first:
+      213: -4585323738585170231
+    second: UI_crafting_table_27
+  - first:
+      213: 8523058099467923781
+    second: UI_crafting_table_28
+  - first:
+      213: -3168889851065556553
+    second: UI_crafting_table_29
+  - first:
+      213: -588599952493227406
+    second: UI_crafting_table_30
+  - first:
+      213: 2064715274213031505
+    second: UI_crafting_table_31
+  - first:
+      213: 3338645393033185533
+    second: UI_crafting_table_32
+  - first:
+      213: -7611260831988763083
+    second: UI_crafting_table_33
+  - first:
+      213: 8624470942988586506
+    second: UI_crafting_table_34
+  - first:
+      213: -2171342484563177313
+    second: UI_crafting_table_35
+  - first:
+      213: 8586173514729301440
+    second: UI_crafting_table_36
+  - first:
+      213: -3859257345698303482
+    second: UI_crafting_table_37
+  - first:
+      213: -3852644853468083344
+    second: UI_crafting_table_38
+  - first:
+      213: 5282756809749764332
+    second: UI_crafting_table_39
+  - first:
+      213: 1010650988600668526
+    second: UI_crafting_table_40
+  - first:
+      213: -8521622858116771508
+    second: UI_crafting_table_41
+  - first:
+      213: -5478357836495435553
+    second: UI_crafting_table_42
+  - first:
+      213: 1785009292248268666
+    second: UI_crafting_table_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_crafting_table_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 693
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078b9012690b5ae0800000000000000
+      internalID: -1559642529163671795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 693
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6ed8d53e66c5a0800000000000000
+      internalID: -6501387834511955216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 693
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4055e8e0af9690800000000000000
+      internalID: -7593173524583264303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 590
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23d1279035b6dd0800000000000000
+      internalID: -2491806668785110368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 590
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a36ba4f5c9c4ab0800000000000000
+      internalID: -5022467551335663073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 590
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5d1069b59de0f0800000000000000
+      internalID: -1086047311712395823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 506
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a202cbaf3b70f0800000000000000
+      internalID: -1118230075544524335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 501
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c09eafc63a04500800000000000000
+      internalID: 378482057160494137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 482
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cecbab20e0e7cc0800000000000000
+      internalID: -3711513638021043173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 482
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32e9688fee465b0800000000000000
+      internalID: -5375909303995718697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 451
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b257baa3bcaa10800000000000000
+      internalID: 1922108686781823156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 360
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb62b4987e63c9d0800000000000000
+      internalID: -2755237082850759749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 360
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b72c8a8091cb90800000000000000
+      internalID: -7223333402594266120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 360
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff99a1436f0b370800000000000000
+      internalID: 8336433613907820319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f4442c4373ceb0800000000000000
+      internalID: -4700786815181457870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 266
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0538aca2f525e2ac0800000000000000
+      internalID: -3878071660426132656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d97ad474f7d6020800000000000000
+      internalID: 2336663725897391474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 268
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a437e1a3157a4dce0800000000000000
+      internalID: -1381295218386635958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1d98f4ee321a70800000000000000
+      internalID: 8796162175352511471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f652883e6eeac630800000000000000
+      internalID: 3948230180505540342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e828faf6404a1440800000000000000
+      internalID: 4907305417576032488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 201
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25752bffe7bfc2d30800000000000000
+      internalID: 4408174658163201874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 201
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3920edcfab2690b40800000000000000
+      internalID: 5406961382880838291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1814e6941ed600800000000000000
+      internalID: 494855647361768420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b45faf98ae26230800000000000000
+      internalID: 3630722127955839755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96612d165c34f9820800000000000000
+      internalID: 2927132797842888297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d4cb8764ade0080800000000000000
+      internalID: -9219191390972654232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 141
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cef6759a58ad50c0800000000000000
+      internalID: -4585323738585170231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 141
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413dc23f2cf74670800000000000000
+      internalID: 8523058099467923781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1a5ee4877d504d0800000000000000
+      internalID: -3168889851065556553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27254d4367fd4d7f0800000000000000
+      internalID: -588599952493227406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 141
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7ac14a9757ac10800000000000000
+      internalID: 2064715274213031505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ccbacb40455e20800000000000000
+      internalID: 3338645393033185533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 126
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363778799e5f5690800000000000000
+      internalID: -7611260831988763083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 126
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4384d0a640b770800000000000000
+      internalID: 8624470942988586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 126
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90d5e9b387ddd1e0800000000000000
+      internalID: -2171342484563177313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 126
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ae45f157382770800000000000000
+      internalID: 8586173514729301440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 127
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f5dc24e9217ac0800000000000000
+      internalID: -3859257345698303482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 66
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b4c4ffae7a88ac0800000000000000
+      internalID: -3852644853468083344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce819e7445f105940800000000000000
+      internalID: 5282756809749764332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 66
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61b07f28bd860e00800000000000000
+      internalID: 1010650988600668526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 60
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41d918f82d1db980800000000000000
+      internalID: -8521622858116771508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 66
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84633c296f8f3b0800000000000000
+      internalID: -5478357836495435553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_crafting_table_43
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 60
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fba317e70a5c810800000000000000
+      internalID: 1785009292248268666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_crafting_table_0: -1559642529163671795
+      UI_crafting_table_1: -6501387834511955216
+      UI_crafting_table_10: 1922108686781823156
+      UI_crafting_table_11: -2755237082850759749
+      UI_crafting_table_12: -7223333402594266120
+      UI_crafting_table_13: 8336433613907820319
+      UI_crafting_table_14: -4700786815181457870
+      UI_crafting_table_15: -3878071660426132656
+      UI_crafting_table_16: 2336663725897391474
+      UI_crafting_table_17: -1381295218386635958
+      UI_crafting_table_18: 8796162175352511471
+      UI_crafting_table_19: 3948230180505540342
+      UI_crafting_table_2: -7593173524583264303
+      UI_crafting_table_20: 4907305417576032488
+      UI_crafting_table_21: 4408174658163201874
+      UI_crafting_table_22: 5406961382880838291
+      UI_crafting_table_23: 494855647361768420
+      UI_crafting_table_24: 3630722127955839755
+      UI_crafting_table_25: 2927132797842888297
+      UI_crafting_table_26: -9219191390972654232
+      UI_crafting_table_27: -4585323738585170231
+      UI_crafting_table_28: 8523058099467923781
+      UI_crafting_table_29: -3168889851065556553
+      UI_crafting_table_3: -2491806668785110368
+      UI_crafting_table_30: -588599952493227406
+      UI_crafting_table_31: 2064715274213031505
+      UI_crafting_table_32: 3338645393033185533
+      UI_crafting_table_33: -7611260831988763083
+      UI_crafting_table_34: 8624470942988586506
+      UI_crafting_table_35: -2171342484563177313
+      UI_crafting_table_36: 8586173514729301440
+      UI_crafting_table_37: -3859257345698303482
+      UI_crafting_table_38: -3852644853468083344
+      UI_crafting_table_39: 5282756809749764332
+      UI_crafting_table_4: -5022467551335663073
+      UI_crafting_table_40: 1010650988600668526
+      UI_crafting_table_41: -8521622858116771508
+      UI_crafting_table_42: -5478357836495435553
+      UI_crafting_table_43: 1785009292248268666
+      UI_crafting_table_5: -1086047311712395823
+      UI_crafting_table_6: -1118230075544524335
+      UI_crafting_table_7: 378482057160494137
+      UI_crafting_table_8: -3711513638021043173
+      UI_crafting_table_9: -5375909303995718697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

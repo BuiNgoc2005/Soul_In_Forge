@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685a2ca26bea2144b8b13c0878e7b56d, type: 3}
+  m_Name: Bronze Blade recipe
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  inputs:
+  - {fileID: 11400000, guid: df78af4f1013eac47812bcb658778df2, type: 2}
+  output: {fileID: 11400000, guid: d955c22246ea411488b6b6c909934bb7, type: 2}
+  outputQuantity: 1

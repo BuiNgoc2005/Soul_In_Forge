@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 18d4b1b1561a15a4d963e733426a02dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7504029153154524208
+    second: Sample-InventorySlotsSet (1)_0
+  - first:
+      213: 3900645828104012656
+    second: Sample-InventorySlotsSet (1)_1
+  - first:
+      213: 5004272470009653333
+    second: Sample-InventorySlotsSet (1)_2
+  - first:
+      213: -6120854541965544048
+    second: Sample-InventorySlotsSet (1)_3
+  - first:
+      213: 442884994735731319
+    second: Sample-InventorySlotsSet (1)_4
+  - first:
+      213: 2095227951266530002
+    second: Sample-InventorySlotsSet (1)_5
+  - first:
+      213: 8270461993937507582
+    second: Sample-InventorySlotsSet (1)_6
+  - first:
+      213: -5039369927678886146
+    second: Sample-InventorySlotsSet (1)_7
+  - first:
+      213: 1736636782674481656
+    second: Sample-InventorySlotsSet (1)_8
+  - first:
+      213: 6454459982859332023
+    second: Sample-InventorySlotsSet (1)_9
+  - first:
+      213: -3674262422691555180
+    second: Sample-InventorySlotsSet (1)_10
+  - first:
+      213: 1602910110511750058
+    second: Sample-InventorySlotsSet (1)_11
+  - first:
+      213: -5458376466129764974
+    second: Sample-InventorySlotsSet (1)_12
+  - first:
+      213: 3202568271682069429
+    second: Sample-InventorySlotsSet (1)_13
+  - first:
+      213: -8527410993835386678
+    second: Sample-InventorySlotsSet (1)_14
+  - first:
+      213: -2398808056578046269
+    second: Sample-InventorySlotsSet (1)_15
+  - first:
+      213: 7801577921685545744
+    second: Sample-InventorySlotsSet (1)_16
+  - first:
+      213: -8460275903276441921
+    second: Sample-InventorySlotsSet (1)_17
+  - first:
+      213: 386490492827492930
+    second: Sample-InventorySlotsSet (1)_18
+  - first:
+      213: 2404506813299311717
+    second: Sample-InventorySlotsSet (1)_19
+  - first:
+      213: -7140680111401624562
+    second: Sample-InventorySlotsSet (1)_20
+  - first:
+      213: -931242731815283183
+    second: Sample-InventorySlotsSet (1)_21
+  - first:
+      213: 1019226634577725890
+    second: Sample-InventorySlotsSet (1)_22
+  - first:
+      213: 2651326982641621013
+    second: Sample-InventorySlotsSet (1)_23
+  - first:
+      213: -8107135095282346854
+    second: Sample-InventorySlotsSet (1)_24
+  - first:
+      213: -982070435901058994
+    second: Sample-InventorySlotsSet (1)_25
+  - first:
+      213: -5796277584470703969
+    second: Sample-InventorySlotsSet (1)_26
+  - first:
+      213: 3539513289508626928
+    second: Sample-InventorySlotsSet (1)_27
+  - first:
+      213: 1487584650771341351
+    second: Sample-InventorySlotsSet (1)_28
+  - first:
+      213: 2816073066062592737
+    second: Sample-InventorySlotsSet (1)_29
+  - first:
+      213: -5247212703551543428
+    second: Sample-InventorySlotsSet (1)_30
+  - first:
+      213: -5744280848292135782
+    second: Sample-InventorySlotsSet (1)_31
+  - first:
+      213: -3523708137483251889
+    second: Sample-InventorySlotsSet (1)_32
+  - first:
+      213: -494945035960308774
+    second: Sample-InventorySlotsSet (1)_33
+  - first:
+      213: -3894704815940229069
+    second: Sample-InventorySlotsSet (1)_34
+  - first:
+      213: 8159487221166831956
+    second: Sample-InventorySlotsSet (1)_35
+  - first:
+      213: -1069657650850175876
+    second: Sample-InventorySlotsSet (1)_36
+  - first:
+      213: 6227969741110335962
+    second: Sample-InventorySlotsSet (1)_37
+  - first:
+      213: -1337033405664705201
+    second: Sample-InventorySlotsSet (1)_38
+  - first:
+      213: -9042056530137578642
+    second: Sample-InventorySlotsSet (1)_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db9c064e355cd790800000000000000
+      internalID: -7504029153154524208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073cfb2d6b0e12630800000000000000
+      internalID: 3900645828104012656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 139
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55821363c4fb27540800000000000000
+      internalID: 5004272470009653333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095be48493b5e0ba0800000000000000
+      internalID: -6120854541965544048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 139
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f2936e81752600800000000000000
+      internalID: 442884994735731319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 139
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d206be78beb31d10800000000000000
+      internalID: 2095227951266530002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 139
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4930d5d5596c270800000000000000
+      internalID: 8270461993937507582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 139
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef9e020cf801ab0800000000000000
+      internalID: -5039369927678886146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 139
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f19037e3f5c91810800000000000000
+      internalID: 1736636782674481656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 139
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ed4f3829d29950800000000000000
+      internalID: 6454459982859332023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49857eb2bc5620dc0800000000000000
+      internalID: -3674262422691555180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 111
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab5fefb04eae3610800000000000000
+      internalID: 1602910110511750058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dbbf51683ff34b0800000000000000
+      internalID: -5458376466129764974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 111
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3eb8a00eec17c20800000000000000
+      internalID: 3202568271682069429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85eaa91ec88a980800000000000000
+      internalID: -8527410993835386678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 111
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6025f28c8b5bed0800000000000000
+      internalID: -2398808056578046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e89509c5c44c60800000000000000
+      internalID: 7801577921685545744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 111
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe1963f3ef079a80800000000000000
+      internalID: -8460275903276441921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426c063e071d5500800000000000000
+      internalID: 386490492827492930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 111
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56446b205368e5120800000000000000
+      internalID: 2404506813299311717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 25
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9539854537ec90800000000000000
+      internalID: -7140680111401624562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1165c7a5baf8313f0800000000000000
+      internalID: -931242731815283183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94f9b5935052e00800000000000000
+      internalID: 1019226634577725890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 27
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51813c7e7d76bc420800000000000000
+      internalID: 2651326982641621013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 27
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94d793959bad7f80800000000000000
+      internalID: -8107135095282346854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 27
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4054bb442cfe52f0800000000000000
+      internalID: -982070435901058994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 27
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9080163f3c7f8fa0800000000000000
+      internalID: -5796277584470703969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 27
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1afea6590ee1130800000000000000
+      internalID: 3539513289508626928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 27
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ac8abb56f4a410800000000000000
+      internalID: 1487584650771341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 27
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab43c8883b41720800000000000000
+      internalID: 2816073066062592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77a4e7d8d72e27b0800000000000000
+      internalID: -5247212703551543428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cb773c0073840b0800000000000000
+      internalID: -5744280848292135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f482d4e16491fc0800000000000000
+      internalID: -3523708137483251889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2e34bc1a9129f0800000000000000
+      internalID: -494945035960308774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33821ecda9a33f9c0800000000000000
+      internalID: -3894704815940229069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459fcf695625c3170800000000000000
+      internalID: 8159487221166831956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ebc9a800d721f0800000000000000
+      internalID: -1069657650850175876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad953ca7b713e6650800000000000000
+      internalID: 6227969741110335962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4546829337e17de0800000000000000
+      internalID: -1337033405664705201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sample-InventorySlotsSet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6306222e79248280800000000000000
+      internalID: -9042056530137578642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sample-InventorySlotsSet (1)_0: -7504029153154524208
+      Sample-InventorySlotsSet (1)_1: 3900645828104012656
+      Sample-InventorySlotsSet (1)_10: -3674262422691555180
+      Sample-InventorySlotsSet (1)_11: 1602910110511750058
+      Sample-InventorySlotsSet (1)_12: -5458376466129764974
+      Sample-InventorySlotsSet (1)_13: 3202568271682069429
+      Sample-InventorySlotsSet (1)_14: -8527410993835386678
+      Sample-InventorySlotsSet (1)_15: -2398808056578046269
+      Sample-InventorySlotsSet (1)_16: 7801577921685545744
+      Sample-InventorySlotsSet (1)_17: -8460275903276441921
+      Sample-InventorySlotsSet (1)_18: 386490492827492930
+      Sample-InventorySlotsSet (1)_19: 2404506813299311717
+      Sample-InventorySlotsSet (1)_2: 5004272470009653333
+      Sample-InventorySlotsSet (1)_20: -7140680111401624562
+      Sample-InventorySlotsSet (1)_21: -931242731815283183
+      Sample-InventorySlotsSet (1)_22: 1019226634577725890
+      Sample-InventorySlotsSet (1)_23: 2651326982641621013
+      Sample-InventorySlotsSet (1)_24: -8107135095282346854
+      Sample-InventorySlotsSet (1)_25: -982070435901058994
+      Sample-InventorySlotsSet (1)_26: -5796277584470703969
+      Sample-InventorySlotsSet (1)_27: 3539513289508626928
+      Sample-InventorySlotsSet (1)_28: 1487584650771341351
+      Sample-InventorySlotsSet (1)_29: 2816073066062592737
+      Sample-InventorySlotsSet (1)_3: -6120854541965544048
+      Sample-InventorySlotsSet (1)_30: -5247212703551543428
+      Sample-InventorySlotsSet (1)_31: -5744280848292135782
+      Sample-InventorySlotsSet (1)_32: -3523708137483251889
+      Sample-InventorySlotsSet (1)_33: -494945035960308774
+      Sample-InventorySlotsSet (1)_34: -3894704815940229069
+      Sample-InventorySlotsSet (1)_35: 8159487221166831956
+      Sample-InventorySlotsSet (1)_36: -1069657650850175876
+      Sample-InventorySlotsSet (1)_37: 6227969741110335962
+      Sample-InventorySlotsSet (1)_38: -1337033405664705201
+      Sample-InventorySlotsSet (1)_39: -9042056530137578642
+      Sample-InventorySlotsSet (1)_4: 442884994735731319
+      Sample-InventorySlotsSet (1)_5: 2095227951266530002
+      Sample-InventorySlotsSet (1)_6: 8270461993937507582
+      Sample-InventorySlotsSet (1)_7: -5039369927678886146
+      Sample-InventorySlotsSet (1)_8: 1736636782674481656
+      Sample-InventorySlotsSet (1)_9: 6454459982859332023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

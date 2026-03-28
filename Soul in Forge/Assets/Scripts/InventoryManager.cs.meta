@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f083916e6c81fe946b251abd4b63a1d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slotParent: {instanceID: 0}
+  - inventoryUI: {fileID: 7018275619242707003, guid: 87df2fdc625703342adad44831f69058, type: 3}
+  - goldText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+# Soul In Forge – Backend Quick Start
+
+## 1. Cài dependencies
+npm install
+
+## 2. Cập nhật URI MongoDB tại: config/db.js
+mongoose.connect(
+  "mongodb+srv://buivobaongochp2005_db_user:tXwtCOac64xFSqTb@cluster0.mongodb.net/SIFgame"
+);
+
+## 3. Chạy backend
+node server.js
+
+## 4. Kiểm tra server
+http://localhost:3000/
+
+## 5. Test Register
+POST http://localhost:3000/auth/register
+Body:
+{
+  "email": "test@gmail.com",
+  "password": "123456"
+}
+
+## 6. Test Login
+POST http://localhost:3000/auth/login
+Body:
+{
+  "email": "test@gmail.com",
+  "password": "123456"
+}
+
+## 7. Dùng token để test Load Profile
+GET http://localhost:3000/user/profile
+Header:
+Authorization: Bearer <token>
+
+## 8. Dừng server
+Ctrl + C
